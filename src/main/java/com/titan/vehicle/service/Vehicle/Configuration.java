@@ -17,7 +17,7 @@ import com.strategicgains.restexpress.plugin.metrics.MetricsConfig;
 public class Configuration
 extends Environment
 {
-	private static final String DEFAULT_EXECUTOR_THREAD_POOL_SIZE = "20";
+	private static final String DEFAULT_EXECUTOR_THREAD_POOL_SIZE = "25";
 
 	private static final String PORT_PROPERTY = "port";
 	private static final String BASE_URL_PROPERTY = "base.url";
